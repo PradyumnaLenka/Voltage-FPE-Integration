@@ -38,6 +38,7 @@ public class LinkedList {
 		node2.next = node3;
 		System.out.println("from git1");
 		linkedList.listPrint();
+		System.out.println("from git2 2nd line" );
 		
 	}
 }
